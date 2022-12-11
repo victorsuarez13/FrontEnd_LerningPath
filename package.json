@@ -18,7 +18,7 @@
     "body-parser": "^1.19.0",
     "constants": "0.0.2",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gulp": "^4.0.2",
     "jw-paginate": "^1.0.4",
     "materialize-css": "^1.0.0",
